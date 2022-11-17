@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Recipes",
-    "slug": "Recipes",
+    "name": "Random Recipes",
+    "slug": "Random-Recipes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
