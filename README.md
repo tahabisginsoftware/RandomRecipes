@@ -1,7 +1,7 @@
 ![Random_Recipes](https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/Github%20Cover.png "Random_Recipes")
 
-Random Recipes.<br>
-Made by [Taha Bisgin](https://tahabisginsoftware.com).
+### Random Recipes.<br>
+### Made by [Taha Bisgin](https://tahabisginsoftware.com).
 
 # Setup
 
@@ -20,7 +20,7 @@ Alternatively, you can start both the server and the app up by: `npm run android
 
 # Download
 
-Download Random Recipes [here](https://github.com/tahabisginsoftware/RandomRecipes/releases/tag/release).
+### Download Random Recipes [here](https://github.com/tahabisginsoftware/RandomRecipes/releases/tag/release).
 
 # Screenshots
 <img align="left" alt="recipe1" src="https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/screen_one.png" width="300"/>
