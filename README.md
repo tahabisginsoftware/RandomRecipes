@@ -25,5 +25,5 @@ MyBudget is not finished yet, I will make a newer, better version in the future.
 # Screenshots
 <img align="left" alt="recipe1" src="https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/screen_one.png" width="300"/>
 <img align="left" alt="recipe2" src="https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/screen_two.png" width="300"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ©TahaBisginSoftware, all rights reserved.
