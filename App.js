@@ -8,7 +8,6 @@ export default function App() {
   const [refresh, setRefresh] = React.useState();
 
   const url = "https://www.themealdb.com/api/json/v1/1/random.php";
-  console.log(meals)
   const getMeals = async function(){
     const response = await fetch(url);
     const data = await response.json();
@@ -26,7 +25,7 @@ export default function App() {
   }, []);
   return (
     <View>
-      <Appbar.Header statusBarHeight={25} style={{backgroundColor: 'black'}}>
+      <Appbar.Header statusBarHeight={25} style={{backgroundColor: '#ffe1c6'}}>
         <Appbar.Content title="Random Recipes" style={{ alignItems:'center'}}/>
       </Appbar.Header>
       <ScrollView 
@@ -54,7 +53,7 @@ export default function App() {
           ))
         }
       </ScrollView>
-      <StatusBar backgroundColor='black' style='light' translucent/>
+      <StatusBar backgroundColor='#ffe1c6' style='dark' translucent/>
     </View>
   );
 }
@@ -72,10 +71,10 @@ const styles = StyleSheet.create({
   },
   CardTitle: {
     fontWeight: '800',
-    fontSize: 32
+    fontSize: 32,
   },
   CardDesc: {
     fontWeight: '500',
-    fontSize: 16
+    fontSize: 16,
   }
 });
