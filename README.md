@@ -18,6 +18,10 @@ Run app: `npx react-native run-android` / `npx react-native run-ios`
 
 Alternatively, you can start both the server and the app up by: `npm run android` / `npm run ios`
 
+# Download
+
+Download Random Recipes [here](https://github.com/tahabisginsoftware/RandomRecipes/releases/tag/release).
+
 # Screenshots
 <img align="left" alt="recipe1" src="https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/screen_one.png" width="300"/>
 <img align="left" alt="recipe2" src="https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/screen_two.png" width="300"/>
